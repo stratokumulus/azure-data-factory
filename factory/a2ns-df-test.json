@@ -1,0 +1,9 @@
+{
+	"name": "a2ns-df-test",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6020cb19-e62e-48b6-922a-70b408bab7dc",
+		"tenantId": "24c19da7-bb31-4f5c-b5c0-db5cc5127588"
+	}
+}
